@@ -14,15 +14,29 @@ function listToTable(list){
     _.each(listItems, item => {
         var baseChildren = item.children[0].children[0];
         var gitRegex = /github\.com|gitbook\.io/;
-        if(baseChildren.children && baseChildren.children[0] && gitRegex.test(baseChildren.href)) {
+        if(baseChildren.children && baseChildren.children[0]) {
             var title = baseChildren.children[0].value;
             var href = baseChildren.href;
 
-            results.push({
-                href: href,
-                title: title
-            });
-            console.log(' ' + title + ' | ' +  href + ' ');
+            if(gitRegex.test(baseChildren.href)) {
+                results.push({
+                    href: href,
+                    title: title,
+                    type: 'github'
+                });
+
+                console.log(' ' + title + ' | ' +  href + ' | github ');
+            } else {
+                results.push({
+                    href: href,
+                    title: title,
+                    type: 'website'
+                });
+
+                if(title && href) {
+                    console.log(' ' + title + ' | ' +  href + ' | website ');
+                }
+            }
         }
     });
 
