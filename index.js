@@ -43,4 +43,4 @@ function getTables(string) {
 
 var raw = fs.readFileSync(__dirname + '/README.md', 'utf8');
 var result = getTables(raw);
-fs.writeFileSync('api.json', JSON.stringify(result));
+fs.writeFileSync('api.json', JSON.stringify(result, null, 4));

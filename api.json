@@ -1,1 +1,19 @@
-[{"headers":["name","type","portal","gitHub","url"],"json":[{"name":"操作系统思考","type":"gitbook","portal":"SUMMAR.md","gitHub":"wizardforcel/think-os-zh"}]}]
+[
+    {
+        "headers": [
+            "name",
+            "type",
+            "portal",
+            "gitHub",
+            "url"
+        ],
+        "json": [
+            {
+                "name": "操作系统思考",
+                "type": "gitbook",
+                "portal": "SUMMAR.md",
+                "gitHub": "wizardforcel/think-os-zh"
+            }
+        ]
+    }
+]
