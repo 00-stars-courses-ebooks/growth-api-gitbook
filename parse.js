@@ -7,6 +7,7 @@ var raw = fs.readFileSync(__dirname + '/free-programming-books-zh_CN/README.md',
 var tokens = parser.parse(raw);
 
 var results = [];
+var resultsInString = "";
 
 function listToTable(list){
     var listItems = list.children;
@@ -14,12 +15,18 @@ function listToTable(list){
         var baseChildren = item.children[0].children[0];
         var gitRegex = /github\.com|gitbook\.io/;
         if(baseChildren.children && baseChildren.children[0] && gitRegex.test(baseChildren.href)) {
+            var title = baseChildren.children[0].value;
+            var href = baseChildren.href;
+
             results.push({
-                href: baseChildren.href,
-                title: baseChildren.children[0].value
+                href: href,
+                title: title
             });
+            console.log(' ' + title + ' | ' +  href + ' ');
         }
     });
+
+    console.log('\n');
     return results;
 }
 
@@ -27,4 +34,4 @@ var result = _.map(_.filter(tokens.children, it => {
     return it.type === 'list';
 }), listToTable);
 
-console.log(result);
+// console.log(result);
