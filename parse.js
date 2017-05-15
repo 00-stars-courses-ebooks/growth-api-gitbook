@@ -52,9 +52,16 @@ function listToTable(list){
 
 function getData(string) {
     var tokens = parser.parse(string)
-    return _.map(_.filter(tokens.children, it => {
-        return it.type === 'list';
-    }), listToTable)
+    var results = [];
+    _.forEach(tokens.children, function(token){
+        if(token.type === 'list') {
+            var result = listToTable(token);
+            if(!_.isEmpty(result)){
+                results.push(listToTable(token));
+            }
+        }
+    })
+    return results;
 }
 
 var result = getData(raw);
