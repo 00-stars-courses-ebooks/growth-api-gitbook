@@ -12,7 +12,8 @@ function listToTable(list){
     var listItems = list.children;
     _.each(listItems, item => {
         var baseChildren = item.children[0].children[0];
-        if(baseChildren.children && baseChildren.children[0]) {
+        var gitRegex = /github\.com|gitbook\.io/;
+        if(baseChildren.children && baseChildren.children[0] && gitRegex.test(baseChildren.href)) {
             results.push({
                 href: baseChildren.href,
                 title: baseChildren.children[0].value
