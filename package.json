@@ -1,25 +1,7 @@
 {
-  "name": "awesome-gitbook-api",
-  "version": "0.0.1",
-  "description": "A API of Awesome GitBook CN for Growth APP",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/phodal/awesome-gitbook-api.git"
-  },
-  "author": "Phodal",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/phodal/awesome-gitbook-api/issues"
-  },
-  "homepage": "https://github.com/phodal/awesome-gitbook-api#readme",
+  "name": "awesome-gitbook-cn",
   "dependencies": {
-    "gulp": "^3.9.1"
-  },
-  "devDependencies": {
-    "gulp-markdown-table-to-json": "^1.0.5"
+    "lodash": "^4.17.4",
+    "mdast": "^2.0.0"
   }
 }
