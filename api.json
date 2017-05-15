@@ -3,13 +3,13 @@
         "heading": "免费的编程中文书籍索引",
         "childrens": [
             {
-                "href": "http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read",
                 "title": "stackoverflow",
+                "href": "http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read",
                 "type": "website"
             },
             {
-                "href": "https://github.com/vhf/free-programming-books",
                 "title": "github",
+                "href": "https://github.com/vhf/free-programming-books",
                 "type": "github"
             }
         ]
@@ -18,103 +18,103 @@
         "heading": "操作系统",
         "childrens": [
             {
-                "href": "http://i.linuxtoy.org/docs/guide/index.html",
                 "title": "开源世界旅行手册",
+                "href": "http://i.linuxtoy.org/docs/guide/index.html",
                 "type": "website"
             },
             {
-                "href": "http://billie66.github.io/TLCL/index.html",
                 "title": "The Linux Command Line",
+                "href": "http://billie66.github.io/TLCL/index.html",
                 "type": "website"
             },
             {
-                "href": "http://oss.org.cn/kernel-book/ldd3/index.html",
                 "title": "Linux 设备驱动",
+                "href": "http://oss.org.cn/kernel-book/ldd3/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html",
                 "title": "深入分析Linux内核源码",
+                "href": "http://www.kerneltravel.net/kernel-book/%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90Linux%E5%86%85%E6%A0%B8%E6%BA%90%E7%A0%81.html",
                 "type": "website"
             },
             {
-                "href": "http://cb.vu/unixtoolbox_zh_CN.xhtml",
                 "title": "UNIX TOOLBOX",
+                "href": "http://cb.vu/unixtoolbox_zh_CN.xhtml",
                 "type": "website"
             },
             {
-                "href": "https://github.com/widuu/chinese_docker",
                 "title": "Docker中文指南",
+                "href": "https://github.com/widuu/chinese_docker",
                 "type": "github"
             },
             {
-                "href": "https://github.com/yeasy/docker_practice",
                 "title": "Docker —— 从入门到实践",
+                "href": "https://github.com/yeasy/docker_practice",
                 "type": "github"
             },
             {
-                "href": "http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1",
                 "title": "Docker入门实战",
+                "href": "http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1",
                 "type": "website"
             },
             {
-                "href": "https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet",
                 "title": "Docker Cheat Sheet",
+                "href": "https://github.com/wsargent/docker-cheat-sheet/tree/master/zh-cn#docker-cheat-sheet",
                 "type": "github"
             },
             {
-                "href": "https://aaaaaashu.gitbooks.io/mac-dev-setup/content/",
                 "title": "Mac 开发配置手册",
+                "href": "https://aaaaaashu.gitbooks.io/mac-dev-setup/content/",
                 "type": "website"
             },
             {
-                "href": "https://www.freebsd.org/doc/zh_CN/books/handbook/index.html",
                 "title": "FreeBSD 使用手册",
+                "href": "https://www.freebsd.org/doc/zh_CN/books/handbook/index.html",
                 "type": "website"
             },
             {
-                "href": "http://billie66.github.io/TLCL/book/",
                 "title": "Linux 命令行(中文版)",
+                "href": "http://billie66.github.io/TLCL/book/",
                 "type": "website"
             },
             {
-                "href": "http://works.jinbuguo.com/lfs/lfs62/index.html",
                 "title": "Linux 构建指南",
+                "href": "http://works.jinbuguo.com/lfs/lfs62/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/me115/linuxtools_rst",
                 "title": "Linux工具快速教程",
+                "href": "https://github.com/me115/linuxtools_rst",
                 "type": "github"
             },
             {
-                "href": "https://www.gitbook.com/book/tinylab/linux-doc/details",
                 "title": "Linux Documentation (中文版)",
+                "href": "https://www.gitbook.com/book/tinylab/linux-doc/details",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/tinylab/elinux/details",
                 "title": "嵌入式 Linux 知识库 (eLinux.org 中文版)",
+                "href": "https://www.gitbook.com/book/tinylab/elinux/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/tobegit3hub/understand_linux_process",
                 "title": "理解Linux进程",
+                "href": "https://github.com/tobegit3hub/understand_linux_process",
                 "type": "github"
             },
             {
-                "href": "https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md",
                 "title": "命令行的艺术",
+                "href": "https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md",
                 "type": "github"
             },
             {
-                "href": "https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html",
                 "title": "SystemTap新手指南",
+                "href": "https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/wizardforcel/think-os-zh",
                 "title": "操作系统思考",
+                "href": "https://github.com/wizardforcel/think-os-zh",
                 "type": "github"
             }
         ]
@@ -123,8 +123,8 @@
         "heading": "智能系统",
         "childrens": [
             {
-                "href": "https://github.com/phodal/designiot",
                 "title": "一步步搭建物联网系统",
+                "href": "https://github.com/phodal/designiot",
                 "type": "github"
             }
         ]
@@ -133,8 +133,8 @@
         "heading": "分布式系统",
         "childrens": [
             {
-                "href": "http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf",
                 "title": "走向分布式",
+                "href": "http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf",
                 "type": "website"
             }
         ]
@@ -143,8 +143,8 @@
         "heading": "编译原理",
         "childrens": [
             {
-                "href": "https://github.com/DeathKing/Learning-SICP",
                 "title": "《计算机程序的结构和解释》公开课 翻译项目",
+                "href": "https://github.com/DeathKing/Learning-SICP",
                 "type": "github"
             }
         ]
@@ -153,8 +153,8 @@
         "heading": "函数式概念",
         "childrens": [
             {
-                "href": "https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn",
                 "title": "傻瓜函数编程",
+                "href": "https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn",
                 "type": "github"
             }
         ]
@@ -163,13 +163,13 @@
         "heading": "计算机图形学",
         "childrens": [
             {
-                "href": "https://github.com/zilongshanren/opengl-tutorials",
                 "title": "OpenGL 教程",
+                "href": "https://github.com/zilongshanren/opengl-tutorials",
                 "type": "github"
             },
             {
-                "href": "http://html5.iii.org.tw/course/webgl/",
                 "title": "WebGL自学网",
+                "href": "http://html5.iii.org.tw/course/webgl/",
                 "type": "website"
             }
         ]
@@ -178,23 +178,23 @@
         "heading": "WEB服务器",
         "childrens": [
             {
-                "href": "http://tengine.taobao.org/book/index.html",
                 "title": "Nginx开发从入门到精通",
+                "href": "http://tengine.taobao.org/book/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.ttlsa.com/nginx/nginx-stu-pdf/",
                 "title": "Nginx教程从入门到精通",
+                "href": "http://www.ttlsa.com/nginx/nginx-stu-pdf/",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details",
                 "title": "OpenResty最佳实践",
+                "href": "https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details",
                 "type": "website"
             },
             {
-                "href": "http://works.jinbuguo.com/apache/menu22/index.html",
                 "title": "Apache 中文手册",
+                "href": "http://works.jinbuguo.com/apache/menu22/index.html",
                 "type": "website"
             }
         ]
@@ -203,83 +203,83 @@
         "heading": "版本控制",
         "childrens": [
             {
-                "href": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000",
                 "title": "Git教程",
+                "href": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000",
                 "type": "website"
             },
             {
-                "href": "http://rogerdudler.github.io/git-guide/index.zh.html",
                 "title": "git - 简易指南",
+                "href": "http://rogerdudler.github.io/git-guide/index.zh.html",
                 "type": "website"
             },
             {
-                "href": "http://backlogtool.com/git-guide/cn/",
                 "title": "猴子都能懂的GIT入门",
+                "href": "http://backlogtool.com/git-guide/cn/",
                 "type": "website"
             },
             {
-                "href": "http://git-scm.com/book/zh/v2",
                 "title": "Pro Git",
+                "href": "http://git-scm.com/book/zh/v2",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/0532/progit/details",
                 "title": "Pro Git 中文版",
+                "href": "https://www.gitbook.com/book/0532/progit/details",
                 "type": "website"
             },
             {
-                "href": "http://www.worldhello.net/gotgithub/index.html",
                 "title": "GotGitHub",
+                "href": "http://www.worldhello.net/gotgithub/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.worldhello.net/gotgit/",
                 "title": "Git权威指南",
+                "href": "http://www.worldhello.net/gotgit/",
                 "type": "website"
             },
             {
-                "href": "http://gitbook.liuhui998.com/index.html",
                 "title": "Git Community Book 中文版",
+                "href": "http://gitbook.liuhui998.com/index.html",
                 "type": "website"
             },
             {
-                "href": "https://www.mercurial-scm.org/wiki/ChineseTutorial",
                 "title": "Mercurial 使用教程",
+                "href": "https://www.mercurial-scm.org/wiki/ChineseTutorial",
                 "type": "website"
             },
             {
-                "href": "http://bucunzai.net/hginit/",
                 "title": "HgInit (中文版)",
+                "href": "http://bucunzai.net/hginit/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/flyhigher139/Git-Cheat-Sheet",
                 "title": "Git-Cheat-Sheet",
+                "href": "https://github.com/flyhigher139/Git-Cheat-Sheet",
                 "type": "github"
             },
             {
-                "href": "https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html",
                 "title": "GitHub秘籍",
+                "href": "https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/waylau/github-help",
                 "title": "GitHub帮助文档",
+                "href": "https://github.com/waylau/github-help",
                 "type": "github"
             },
             {
-                "href": "http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html",
                 "title": "git-flow 备忘清单",
+                "href": "http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html",
                 "type": "website"
             },
             {
-                "href": "http://svnbook.red-bean.com/nightly/zh/index.html",
                 "title": "svn 手册",
+                "href": "http://svnbook.red-bean.com/nightly/zh/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/phodal/github-roam",
                 "title": "GitHub漫游指南",
+                "href": "https://github.com/phodal/github-roam",
                 "type": "github"
             }
         ]
@@ -288,43 +288,43 @@
         "heading": "编辑器",
         "childrens": [
             {
-                "href": "http://exvim.github.io/docs-zh/intro/",
                 "title": "exvim--vim 改良成IDE项目",
+                "href": "http://exvim.github.io/docs-zh/intro/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/vimcn/vimcdoc",
                 "title": "Vim中文文档",
+                "href": "https://github.com/vimcn/vimcdoc",
                 "type": "github"
             },
             {
-                "href": "https://github.com/yangyangwithgnu/use_vim_as_ide",
                 "title": "所需即所获：像 IDE 一样使用 vim",
+                "href": "https://github.com/yangyangwithgnu/use_vim_as_ide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/wizardforcel/atom-flight-manual-zh-cn",
                 "title": "Atom飞行手册中文版",
+                "href": "https://github.com/wizardforcel/atom-flight-manual-zh-cn",
                 "type": "github"
             },
             {
-                "href": "https://github.com/wizardforcel/markdown-simple-world",
                 "title": "Markdown·简单的世界",
+                "href": "https://github.com/wizardforcel/markdown-simple-world",
                 "type": "github"
             },
             {
-                "href": "https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org",
                 "title": "一年成为 Emacs 高手",
+                "href": "https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org",
                 "type": "github"
             },
             {
-                "href": "http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf",
                 "title": "Emacs 生存指南",
+                "href": "http://lifegoo.pluskid.org/upload/blog/152/Survive.in.Emacs.pdf",
                 "type": "website"
             },
             {
-                "href": "https://atom-china.org/t/atom/62",
                 "title": "Atom官方手册",
+                "href": "https://atom-china.org/t/atom/62",
                 "type": "website"
             }
         ]
@@ -333,33 +333,33 @@
         "heading": "NoSQL",
         "childrens": [
             {
-                "href": "http://old.sebug.net/paper/databases/nosql/Nosql.html",
                 "title": "NoSQL数据库笔谈",
+                "href": "http://old.sebug.net/paper/databases/nosql/Nosql.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/huangz1990/redis-3.0-annotated",
                 "title": "带有详细注释的 Redis 3.0 代码",
+                "href": "https://github.com/huangz1990/redis-3.0-annotated",
                 "type": "github"
             },
             {
-                "href": "https://github.com/huangz1990/annotated_redis_source",
                 "title": "带有详细注释的 Redis 2.6 代码",
+                "href": "https://github.com/huangz1990/annotated_redis_source",
                 "type": "github"
             },
             {
-                "href": "https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md",
                 "title": "The Little MongoDB Book",
+                "href": "https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md",
                 "title": "The Little Redis Book",
+                "href": "https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/JerryLead/SparkInternals/tree/master/markdown",
                 "title": "Apache Spark 设计与实现",
+                "href": "https://github.com/JerryLead/SparkInternals/tree/master/markdown",
                 "type": "github"
             }
         ]
@@ -368,18 +368,18 @@
         "heading": "PostgreSQL",
         "childrens": [
             {
-                "href": "http://works.jinbuguo.com/postgresql/menu823/index.html",
                 "title": "PostgreSQL 8.2.3 中文文档",
+                "href": "http://works.jinbuguo.com/postgresql/menu823/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.postgres.cn/docs/9.3/index.html",
                 "title": "PostgreSQL 9.3.1 中文文档",
+                "href": "http://www.postgres.cn/docs/9.3/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.postgres.cn/docs/9.5/index.html",
                 "title": "PostgreSQL 9.5.3 中文文档",
+                "href": "http://www.postgres.cn/docs/9.5/index.html",
                 "type": "website"
             }
         ]
@@ -388,13 +388,13 @@
         "heading": "MySQL",
         "childrens": [
             {
-                "href": "http://blog.codinglabs.org/articles/theory-of-mysql-index.html",
                 "title": "MySQL索引背后的数据结构及算法原理",
+                "href": "http://blog.codinglabs.org/articles/theory-of-mysql-index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html",
                 "title": "21分钟MySQL入门教程",
+                "href": "http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html",
                 "type": "website"
             }
         ]
@@ -403,23 +403,23 @@
         "heading": "管理和监控",
         "childrens": [
             {
-                "href": "http://udn.yyuap.com/doc/mastering-elasticsearch/",
                 "title": "Mastering Elasticsearch(中文版)",
+                "href": "http://udn.yyuap.com/doc/mastering-elasticsearch/",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details",
                 "title": "ElasticSearch 权威指南",
+                "href": "https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/chenryn/logstash-best-practice-cn",
                 "title": "Logstash 最佳实践",
+                "href": "https://github.com/chenryn/logstash-best-practice-cn",
                 "type": "github"
             },
             {
-                "href": "http://bbs.konotes.org/workdoc/puppet-27/",
                 "title": "Puppet 2.7 Cookbook 中文版",
+                "href": "http://bbs.konotes.org/workdoc/puppet-27/",
                 "type": "website"
             }
         ]
@@ -428,73 +428,73 @@
         "heading": "项目相关",
         "childrens": [
             {
-                "href": "http://article.yeeyan.org/view/2251/94882",
                 "title": "持续集成（第二版）",
+                "href": "http://article.yeeyan.org/view/2251/94882",
                 "type": "website"
             },
             {
-                "href": "http://www.ibm.com/developerworks/cn/java/j-ap/",
                 "title": "让开发自动化系列专栏",
+                "href": "http://www.ibm.com/developerworks/cn/java/j-ap/",
                 "type": "website"
             },
             {
-                "href": "http://www.ibm.com/developerworks/cn/java/j-cq/",
                 "title": "追求代码质量",
+                "href": "http://www.ibm.com/developerworks/cn/java/j-cq/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/fool2fish/selenium-doc",
                 "title": "selenium 中文文档",
+                "href": "https://github.com/fool2fish/selenium-doc",
                 "type": "github"
             },
             {
-                "href": "http://it-ebooks.flygon.net/selenium-simple-tutorial/",
                 "title": "Selenium Webdriver 简易教程",
+                "href": "http://it-ebooks.flygon.net/selenium-simple-tutorial/",
                 "type": "website"
             },
             {
-                "href": "http://local.joelonsoftware.com/wiki/Chinese_(Simplified)",
                 "title": "Joel谈软件",
+                "href": "http://local.joelonsoftware.com/wiki/Chinese_(Simplified)",
                 "type": "website"
             },
             {
-                "href": "http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81",
                 "title": "約耳談軟體(Joel on Software)",
+                "href": "http://local.joelonsoftware.com/wiki/%E9%A6%96%E9%A0%81",
                 "type": "website"
             },
             {
-                "href": "https://github.com/waylau/Gradle-2-User-Guide",
                 "title": "Gradle 2 用户指南",
+                "href": "https://github.com/waylau/Gradle-2-User-Guide",
                 "type": "github"
             },
             {
-                "href": "http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2",
                 "title": "Gradle 中文使用文档",
+                "href": "http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2",
                 "type": "website"
             },
             {
-                "href": "https://github.com/ecomfe/spec",
                 "title": "编码规范",
+                "href": "https://github.com/ecomfe/spec",
                 "type": "github"
             },
             {
-                "href": "http://www.ituring.com.cn/book/1143",
                 "title": "开源软件架构",
+                "href": "http://www.ituring.com.cn/book/1143",
                 "type": "website"
             },
             {
-                "href": "http://docs.huihoo.com/gnu/linux/gmake.html",
                 "title": "GNU make 指南",
+                "href": "http://docs.huihoo.com/gnu/linux/gmake.html",
                 "type": "website"
             },
             {
-                "href": "http://www.yayu.org/book/gnu_make/",
                 "title": "GNU make 中文手册",
+                "href": "http://www.yayu.org/book/gnu_make/",
                 "type": "website"
             },
             {
-                "href": "http://12factor.net/zh_cn/",
                 "title": "The Twelve-Factor App",
+                "href": "http://12factor.net/zh_cn/",
                 "type": "website"
             }
         ]
@@ -503,23 +503,23 @@
         "heading": "设计模式",
         "childrens": [
             {
-                "href": "https://github.com/me115/design_patterns",
                 "title": "图说设计模式",
+                "href": "https://github.com/me115/design_patterns",
                 "type": "github"
             },
             {
-                "href": "http://blog.csdn.net/lovelion/article/details/17517213",
                 "title": "史上最全设计模式导学目录",
+                "href": "http://blog.csdn.net/lovelion/article/details/17517213",
                 "type": "website"
             },
             {
-                "href": "https://github.com/AlfredTheBest/Design-Pattern",
                 "title": "design pattern 包教不包会",
+                "href": "https://github.com/AlfredTheBest/Design-Pattern",
                 "type": "github"
             },
             {
-                "href": "https://quanke.gitbooks.io/design-pattern-java/content/",
                 "title": "设计模式 Java 版",
+                "href": "https://quanke.gitbooks.io/design-pattern-java/content/",
                 "type": "website"
             }
         ]
@@ -528,133 +528,133 @@
         "heading": "Web",
         "childrens": [
             {
-                "href": "http://www.20thingsilearned.com/zh-CN/home",
                 "title": "关于浏览器和网络的 20 项须知",
+                "href": "http://www.20thingsilearned.com/zh-CN/home",
                 "type": "website"
             },
             {
-                "href": "http://jinlong.github.io/2013/08/29/devtoolsecrets/",
                 "title": "浏览器开发工具的秘密",
+                "href": "http://jinlong.github.io/2013/08/29/devtoolsecrets/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools",
                 "title": "Chrome 开发者工具中文手册",
+                "href": "https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools",
                 "type": "github"
             },
             {
-                "href": "http://open.chrome.360.cn/extension_dev/overview.html",
                 "title": "Chrome扩展开发文档",
+                "href": "http://open.chrome.360.cn/extension_dev/overview.html",
                 "type": "website"
             },
             {
-                "href": "http://www.gulpjs.com.cn/docs/",
                 "title": "gulp中文文档",
+                "href": "http://www.gulpjs.com.cn/docs/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/nimojs/gulp-book",
                 "title": "Gulp 入门指南",
+                "href": "https://github.com/nimojs/gulp-book",
                 "type": "github"
             },
             {
-                "href": "https://github.com/AlloyTeam/Mars",
                 "title": "移动Web前端知识库",
+                "href": "https://github.com/AlloyTeam/Mars",
                 "type": "github"
             },
             {
-                "href": "http://deerchao.net/tutorials/regex/regex.htm",
                 "title": "正则表达式30分钟入门教程",
+                "href": "http://deerchao.net/tutorials/regex/regex.htm",
                 "type": "website"
             },
             {
-                "href": "https://github.com/fouber/blog/issues/2",
                 "title": "前端开发体系建设日记",
+                "href": "https://github.com/fouber/blog/issues/2",
                 "type": "github"
             },
             {
-                "href": "https://github.com/hoosin/mobile-web-favorites",
                 "title": "移动前端开发收藏夹",
+                "href": "https://github.com/hoosin/mobile-web-favorites",
                 "type": "github"
             },
             {
-                "href": "https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md",
                 "title": "JSON风格指南",
+                "href": "https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/bolasblack/http-api-guide",
                 "title": "HTTP 接口设计指北",
+                "href": "https://github.com/bolasblack/http-api-guide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/hacke2/hacke2.github.io/issues/1",
                 "title": "前端资源分享（一）",
+                "href": "https://github.com/hacke2/hacke2.github.io/issues/1",
                 "type": "github"
             },
             {
-                "href": "https://github.com/hacke2/hacke2.github.io/issues/3",
                 "title": "前端资源分享（二）",
+                "href": "https://github.com/hacke2/hacke2.github.io/issues/3",
                 "type": "github"
             },
             {
-                "href": "http://coderlmn.github.io/code-standards/",
                 "title": "前端代码规范 及 最佳实践",
+                "href": "http://coderlmn.github.io/code-standards/",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/dwqs/frontenddevhandbook/details",
                 "title": "前端开发者手册",
+                "href": "https://www.gitbook.com/book/dwqs/frontenddevhandbook/details",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/leohxj/front-end-database/details",
                 "title": "前端工程师手册",
+                "href": "https://www.gitbook.com/book/leohxj/front-end-database/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/wizardforcel/w3school",
                 "title": "w3school教程整理",
+                "href": "https://github.com/wizardforcel/w3school",
                 "type": "github"
             },
             {
-                "href": "http://man.lupaworld.com/content/network/wireshark/index.html",
                 "title": "Wireshark用户手册",
+                "href": "http://man.lupaworld.com/content/network/wireshark/index.html",
                 "type": "website"
             },
             {
-                "href": "https://community.emc.com/thread/194901",
                 "title": "一站式学习Wireshark",
+                "href": "https://community.emc.com/thread/194901",
                 "type": "website"
             },
             {
-                "href": "http://happypeter.github.io/tealeaf-http/",
                 "title": "HTTP 下午茶",
+                "href": "http://happypeter.github.io/tealeaf-http/",
                 "type": "website"
             },
             {
-                "href": "http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1",
                 "title": "HTTP/2.0 中文翻译",
+                "href": "http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1",
                 "type": "website"
             },
             {
-                "href": "https://github.com/abbshr/rfc7540-translation-zh_cn",
                 "title": "RFC 7540 - HTTP/2 中文翻译版",
+                "href": "https://github.com/abbshr/rfc7540-translation-zh_cn",
                 "type": "github"
             },
             {
-                "href": "https://www.gitbook.com/book/ye11ow/http2-explained/details",
                 "title": "http2讲解",
+                "href": "https://www.gitbook.com/book/ye11ow/http2-explained/details",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details",
                 "title": "3 Web Designs in 3 Weeks",
+                "href": "https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/hellorocky/Site-Reliability-Engineering",
                 "title": "站点可靠性工程",
+                "href": "https://github.com/hellorocky/Site-Reliability-Engineering",
                 "type": "github"
             }
         ]
@@ -663,28 +663,28 @@
         "heading": "大数据",
         "childrens": [
             {
-                "href": "https://github.com/Flowerowl/Big-Data-Resources",
                 "title": "大数据/数据挖掘/推荐系统/机器学习相关资源",
+                "href": "https://github.com/Flowerowl/Big-Data-Resources",
                 "type": "github"
             },
             {
-                "href": "https://github.com/egrcc/guidetodatamining",
                 "title": "面向程序员的数据挖掘指南",
+                "href": "https://github.com/egrcc/guidetodatamining",
                 "type": "github"
             },
             {
-                "href": "https://code.csdn.net/CODE_Translation/spark_matei_phd",
                 "title": "大型集群上的快速和通用数据处理架构",
+                "href": "https://code.csdn.net/CODE_Translation/spark_matei_phd",
                 "type": "website"
             },
             {
-                "href": "https://github.com/linyiqun/DataMiningAlgorithm",
                 "title": "数据挖掘中经典的算法实现和详细的注释",
+                "href": "https://github.com/linyiqun/DataMiningAlgorithm",
                 "type": "github"
             },
             {
-                "href": "https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/",
                 "title": "Spark 编程指南简体中文版",
+                "href": "https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/",
                 "type": "website"
             }
         ]
@@ -693,18 +693,18 @@
         "heading": "编程艺术",
         "childrens": [
             {
-                "href": "https://github.com/julycoding/The-Art-Of-Programming-by-July",
                 "title": "程序员编程艺术",
+                "href": "https://github.com/julycoding/The-Art-Of-Programming-by-July",
                 "type": "github"
             },
             {
-                "href": "http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print",
                 "title": "每个程序员都应该了解的内存知识(译)",
+                "href": "http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print",
                 "type": "website"
             },
             {
-                "href": "http://read.douban.com/ebook/4972883/",
                 "title": "取悦的工序：如何理解游戏",
+                "href": "http://read.douban.com/ebook/4972883/",
                 "type": "website"
             }
         ]
@@ -713,33 +713,33 @@
         "heading": "其它",
         "childrens": [
             {
-                "href": "https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details",
                 "title": "OpenWrt智能、自动、透明翻墙路由器教程",
+                "href": "https://www.gitbook.com/book/softwaredownload/openwrt-fanqiang/details",
                 "type": "website"
             },
             {
-                "href": "https://community.emc.com/docs/DOC-16067",
                 "title": "SAN 管理入门系列",
+                "href": "https://community.emc.com/docs/DOC-16067",
                 "type": "website"
             },
             {
-                "href": "http://sketchcn.com/sketch-chinese-user-manual.html#introduce",
                 "title": "Sketch 中文手册",
+                "href": "http://sketchcn.com/sketch-chinese-user-manual.html#introduce",
                 "type": "website"
             },
             {
-                "href": "http://ifeve.com/perfbook/",
                 "title": "深入理解并行编程",
+                "href": "http://ifeve.com/perfbook/",
                 "type": "website"
             },
             {
-                "href": "http://www.kancloud.cn/kancloud/a-programmer-prepares",
                 "title": "程序员的自我修养",
+                "href": "http://www.kancloud.cn/kancloud/a-programmer-prepares",
                 "type": "website"
             },
             {
-                "href": "https://github.com/phodal/growth-ebook",
                 "title": "Growth: 全栈增长工程师指南",
+                "href": "https://github.com/phodal/growth-ebook",
                 "type": "github"
             }
         ]
@@ -748,38 +748,38 @@
         "heading": "Android",
         "childrens": [
             {
-                "href": "http://www.apkbus.com/design/index.html",
                 "title": "Android Design(中文版)",
+                "href": "http://www.apkbus.com/design/index.html",
                 "type": "website"
             },
             {
-                "href": "http://wiki.jikexueyuan.com/project/material-design/",
                 "title": "Material Design 中文版",
+                "href": "http://wiki.jikexueyuan.com/project/material-design/",
                 "type": "website"
             },
             {
-                "href": "http://hukai.me/android-training-course-in-chinese/index.html",
                 "title": "Google Android官方培训课程中文版",
+                "href": "http://hukai.me/android-training-course-in-chinese/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/",
                 "title": "Android学习之路",
+                "href": "http://www.stormzhang.com/android/2014/07/07/learn-android-from-rookie/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/bboyfeiyu/android-tech-frontier",
                 "title": "Android开发技术前线(android-tech-frontier)",
+                "href": "https://github.com/bboyfeiyu/android-tech-frontier",
                 "type": "github"
             },
             {
-                "href": "https://github.com/FX-Max/Point-of-Android",
                 "title": "Point-of-Android",
+                "href": "https://github.com/FX-Max/Point-of-Android",
                 "type": "github"
             },
             {
-                "href": "http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io",
                 "title": "Android6.0新特性详解",
+                "href": "http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io",
                 "type": "website"
             }
         ]
@@ -788,8 +788,8 @@
         "heading": "APP",
         "childrens": [
             {
-                "href": "https://github.com/waylau/cordova-dev-guide",
                 "title": "Apache Cordova 开发指南",
+                "href": "https://github.com/waylau/cordova-dev-guide",
                 "type": "github"
             }
         ]
@@ -798,13 +798,13 @@
         "heading": "AWK",
         "childrens": [
             {
-                "href": "https://github.com/wuzhouhui/awk",
                 "title": "awk程序设计语言",
+                "href": "https://github.com/wuzhouhui/awk",
                 "type": "github"
             },
             {
-                "href": "http://awk.readthedocs.org/en/latest/index.html",
                 "title": "awk中文指南",
+                "href": "http://awk.readthedocs.org/en/latest/index.html",
                 "type": "website"
             }
         ]
@@ -813,123 +813,123 @@
         "heading": "C/C++",
         "childrens": [
             {
-                "href": "https://www.gitbook.com/book/tinylab/cbook/details",
                 "title": "C 语言编程透视",
+                "href": "https://www.gitbook.com/book/tinylab/cbook/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/forhappy/Cplusplus-Concurrency-In-Practice",
                 "title": "C++ 并发编程指南",
+                "href": "https://github.com/forhappy/Cplusplus-Concurrency-In-Practice",
                 "type": "github"
             },
             {
-                "href": "http://akaedu.github.io/book/",
                 "title": "Linux C编程一站式学习",
+                "href": "http://akaedu.github.io/book/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/leeyiw/cgdb-manual-in-chinese",
                 "title": "CGDB中文手册",
+                "href": "https://github.com/leeyiw/cgdb-manual-in-chinese",
                 "type": "github"
             },
             {
-                "href": "https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md",
                 "title": "100个gdb小技巧",
+                "href": "https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md",
                 "title": "100个gcc小技巧",
+                "href": "https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/anjuke/zguide-cn",
                 "title": "ZMQ 指南",
+                "href": "https://github.com/anjuke/zguide-cn",
                 "type": "github"
             },
             {
-                "href": "http://www.ituring.com.cn/book/1203",
                 "title": "How to Think Like a Computer Scientist",
+                "href": "http://www.ituring.com.cn/book/1203",
                 "type": "website"
             },
             {
-                "href": "http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf",
                 "title": "跟我一起写Makefile(PDF)",
+                "href": "http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf",
                 "type": "website"
             },
             {
-                "href": "http://www.yayu.org/book/gnu_make/",
                 "title": "GNU make中文手册",
+                "href": "http://www.yayu.org/book/gnu_make/",
                 "type": "website"
             },
             {
-                "href": "http://docs.huihoo.com/gnu/linux/gmake.html",
                 "title": "GNU make 指南",
+                "href": "http://docs.huihoo.com/gnu/linux/gmake.html",
                 "type": "website"
             },
             {
-                "href": "http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/",
                 "title": "Google C++ 风格指南",
+                "href": "http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/andycai/cprimer",
                 "title": "C/C++ Primer",
+                "href": "https://github.com/andycai/cprimer",
                 "type": "github"
             },
             {
-                "href": "http://www.nowamagic.net/librarys/books/contents/c",
                 "title": "简单易懂的C魔法",
+                "href": "http://www.nowamagic.net/librarys/books/contents/c",
                 "type": "website"
             },
             {
-                "href": "http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf",
                 "title": "Cmake 实践",
+                "href": "http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf",
                 "type": "website"
             },
             {
-                "href": "http://www.sunistudio.com/cppfaq/",
                 "title": "C++ FAQ LITE(中文版)",
+                "href": "http://www.sunistudio.com/cppfaq/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/Mooophy/Cpp-Primer",
                 "title": "C++ Primer 5th Answers",
+                "href": "https://github.com/Mooophy/Cpp-Primer",
                 "type": "github"
             },
             {
-                "href": "https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details",
                 "title": "C++ 并发编程(基于C++11)",
+                "href": "https://www.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details",
                 "type": "website"
             },
             {
-                "href": "http://www.kuqin.com/qtdocument/tutorial.html",
                 "title": "QT 教程",
+                "href": "http://www.kuqin.com/qtdocument/tutorial.html",
                 "type": "website"
             },
             {
-                "href": "http://www.devbean.net/category/qt-study-road-2/",
                 "title": "DevBean的《Qt学习之路2》(Qt5)",
+                "href": "http://www.devbean.net/category/qt-study-road-2/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/wuye9036/CppTemplateTutorial",
                 "title": "C++ Template 进阶指南",
+                "href": "https://github.com/wuye9036/CppTemplateTutorial",
                 "type": "github"
             },
             {
-                "href": "https://github.com/luohaha/Chinese-uvbook",
                 "title": "libuv中文教程",
+                "href": "https://github.com/luohaha/Chinese-uvbook",
                 "type": "github"
             },
             {
-                "href": "http://zh.highscore.de/cpp/boost/",
                 "title": "Boost 库中文教程",
+                "href": "http://zh.highscore.de/cpp/boost/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/wizardforcel/lcthw-zh",
                 "title": "笨办法学C",
+                "href": "https://github.com/wizardforcel/lcthw-zh",
                 "type": "github"
             }
         ]
@@ -938,33 +938,33 @@
         "heading": "C#",
         "childrens": [
             {
-                "href": "https://msdn.microsoft.com/zh-cn/library/kx37x362.aspx",
                 "title": "MSDN C# 中文文档",
+                "href": "https://msdn.microsoft.com/zh-cn/library/kx37x362.aspx",
                 "type": "website"
             },
             {
-                "href": "https://msdn.microsoft.com/zh-cn/library/gg145045.aspx",
                 "title": ".NET 类库参考",
+                "href": "https://msdn.microsoft.com/zh-cn/library/gg145045.aspx",
                 "type": "website"
             },
             {
-                "href": "http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html",
                 "title": "ASP.NET MVC 5 入门指南",
+                "href": "http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html",
                 "type": "website"
             },
             {
-                "href": "http://www.cnblogs.com/LonelyShadow/p/4162318.html",
                 "title": "超全面的 .NET GDI+ 图形图像编程教程",
+                "href": "http://www.cnblogs.com/LonelyShadow/p/4162318.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/JackWangCUMT/customcontrol",
                 "title": ".NET控件开发基础",
+                "href": "https://github.com/JackWangCUMT/customcontrol",
                 "type": "github"
             },
             {
-                "href": "https://github.com/sherlockchou86/-free-ebook-.NET-",
                 "title": ".NET开发要点精讲（初稿）",
+                "href": "https://github.com/sherlockchou86/-free-ebook-.NET-",
                 "type": "github"
             }
         ]
@@ -973,8 +973,8 @@
         "heading": "Clojure",
         "childrens": [
             {
-                "href": "http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/",
                 "title": "Clojure入门教程",
+                "href": "http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/",
                 "type": "website"
             }
         ]
@@ -983,38 +983,38 @@
         "heading": "Clojure",
         "childrens": [
             {
-                "href": "https://github.com/chadluo/CSS-Guidelines/blob/master/README.md",
                 "title": "通用 CSS 笔记、建议与指导",
+                "href": "https://github.com/chadluo/CSS-Guidelines/blob/master/README.md",
                 "type": "github"
             },
             {
-                "href": "http://yanxyz.github.io/emmet-docs/",
                 "title": "Emmet 文档",
+                "href": "http://yanxyz.github.io/emmet-docs/",
                 "type": "website"
             },
             {
-                "href": "http://alloyteam.github.io/CodeGuide/",
                 "title": "前端代码规范",
+                "href": "http://alloyteam.github.io/CodeGuide/",
                 "type": "website"
             },
             {
-                "href": "http://sass-guidelin.es/zh/",
                 "title": "Sass Guidelines 中文",
+                "href": "http://sass-guidelin.es/zh/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/waylau/css3-tutorial",
                 "title": "CSS3 Tutorial 《CSS3 教程》",
+                "href": "https://github.com/waylau/css3-tutorial",
                 "type": "github"
             },
             {
-                "href": "https://developer.mozilla.org/zh-CN/docs/Web/HTML",
                 "title": "MDN HTML 中文文档",
+                "href": "https://developer.mozilla.org/zh-CN/docs/Web/HTML",
                 "type": "website"
             },
             {
-                "href": "https://developer.mozilla.org/zh-CN/docs/Web/CSS",
                 "title": "MDN CSS 中文文档",
+                "href": "https://developer.mozilla.org/zh-CN/docs/Web/CSS",
                 "type": "website"
             }
         ]
@@ -1023,8 +1023,8 @@
         "heading": "Dart",
         "childrens": [
             {
-                "href": "http://dart.lidian.info/wiki/Language_Tour",
                 "title": "Dart 语言导览",
+                "href": "http://dart.lidian.info/wiki/Language_Tour",
                 "type": "website"
             }
         ]
@@ -1033,8 +1033,8 @@
         "heading": "Elixir",
         "childrens": [
             {
-                "href": "https://github.com/straightdave/programming_elixir",
                 "title": "Elixir编程入门",
+                "href": "https://github.com/straightdave/programming_elixir",
                 "type": "github"
             }
         ]
@@ -1043,8 +1043,8 @@
         "heading": "Fortran",
         "childrens": [
             {
-                "href": "http://micro.ustc.edu.cn/Fortran/ZJDing/",
                 "title": "Fortran77和90/95编程入门",
+                "href": "http://micro.ustc.edu.cn/Fortran/ZJDing/",
                 "type": "website"
             }
         ]
@@ -1053,78 +1053,78 @@
         "heading": "Go",
         "childrens": [
             {
-                "href": "https://github.com/Unknwon/go-fundamental-programming",
                 "title": "Go编程基础",
+                "href": "https://github.com/Unknwon/go-fundamental-programming",
                 "type": "github"
             },
             {
-                "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
                 "title": "Go入门指南",
+                "href": "https://github.com/Unknwon/the-way-to-go_ZH_CN",
                 "type": "github"
             },
             {
-                "href": "http://mikespook.com/learning-go/",
                 "title": "学习Go语言",
+                "href": "http://mikespook.com/learning-go/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/astaxie/build-web-application-with-golang",
                 "title": "Go Web 编程",
+                "href": "https://github.com/astaxie/build-web-application-with-golang",
                 "type": "github"
             },
             {
-                "href": "https://github.com/astaxie/Go-in-Action",
                 "title": "Go实战开发",
+                "href": "https://github.com/astaxie/Go-in-Action",
                 "type": "github"
             },
             {
-                "href": "https://github.com/astaxie/NPWG_zh",
                 "title": "Network programming with Go 中文翻译版本",
+                "href": "https://github.com/astaxie/NPWG_zh",
                 "type": "github"
             },
             {
-                "href": "http://www.hellogcc.org/effective_go.html",
                 "title": "Effective Go",
+                "href": "http://www.hellogcc.org/effective_go.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example",
                 "title": "Go 语言标准库",
+                "href": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example",
                 "type": "github"
             },
             {
-                "href": "http://gorevel.cn/docs/manual/index.html",
                 "title": "Revel 框架手册",
+                "href": "http://gorevel.cn/docs/manual/index.html",
                 "type": "website"
             },
             {
-                "href": "http://blog.csdn.net/dc_726/article/details/46565241",
                 "title": "Java程序员的Golang入门指南",
+                "href": "http://blog.csdn.net/dc_726/article/details/46565241",
                 "type": "website"
             },
             {
-                "href": "https://github.com/hyper-carrot/go_command_tutorial",
                 "title": "Go命令教程",
+                "href": "https://github.com/hyper-carrot/go_command_tutorial",
                 "type": "github"
             },
             {
-                "href": "https://github.com/achun/Go-Blog-In-Action",
                 "title": "Go语言博客实践",
+                "href": "https://github.com/achun/Go-Blog-In-Action",
                 "type": "github"
             },
             {
-                "href": "https://github.com/golang-china/golangdoc.translations",
                 "title": "Go 官方文档翻译",
+                "href": "https://github.com/golang-china/golangdoc.translations",
                 "type": "github"
             },
             {
-                "href": "https://github.com/tiancaiamao/go-internals",
                 "title": "深入解析Go",
+                "href": "https://github.com/tiancaiamao/go-internals",
                 "type": "github"
             },
             {
-                "href": "https://bitbucket.org/golang-china/gopl-zh/wiki/Home",
                 "title": "Go语言圣经(中文版)",
+                "href": "https://bitbucket.org/golang-china/gopl-zh/wiki/Home",
                 "type": "website"
             }
         ]
@@ -1133,8 +1133,8 @@
         "heading": "Groovy",
         "childrens": [
             {
-                "href": "http://www.ibm.com/developerworks/cn/java/j-pg/",
                 "title": "实战 Groovy 系列",
+                "href": "http://www.ibm.com/developerworks/cn/java/j-pg/",
                 "type": "website"
             }
         ]
@@ -1143,13 +1143,13 @@
         "heading": "Haskell",
         "childrens": [
             {
-                "href": "http://rwh.readthedocs.org/en/latest/",
                 "title": "Real World Haskell 中文版",
+                "href": "http://rwh.readthedocs.org/en/latest/",
                 "type": "website"
             },
             {
-                "href": "http://fleurer-lee.com/lyah/",
                 "title": "Haskell趣学指南",
+                "href": "http://fleurer-lee.com/lyah/",
                 "type": "website"
             }
         ]
@@ -1158,38 +1158,38 @@
         "heading": "iOS",
         "childrens": [
             {
-                "href": "https://github.com/qinjx/30min_guides/blob/master/ios.md",
                 "title": "iOS开发60分钟入门",
+                "href": "https://github.com/qinjx/30min_guides/blob/master/ios.md",
                 "type": "github"
             },
             {
-                "href": "http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html",
                 "title": "iOS7人机界面指南",
+                "href": "http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html",
                 "type": "website"
             },
             {
-                "href": "http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/",
                 "title": "Google Objective-C Style Guide 中文版",
+                "href": "http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/",
                 "type": "website"
             },
             {
-                "href": "http://wileam.com/iphone-6-screen-cn/",
                 "title": "iPhone 6 屏幕揭秘",
+                "href": "http://wileam.com/iphone-6-screen-cn/",
                 "type": "website"
             },
             {
-                "href": "http://nilsun.github.io/apple-watch/",
                 "title": "Apple Watch开发初探",
+                "href": "http://nilsun.github.io/apple-watch/",
                 "type": "website"
             },
             {
-                "href": "https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html",
                 "title": "马上着手开发 iOS 应用程序",
+                "href": "https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/jkyin/Subtitle",
                 "title": "网易斯坦福大学公开课：iOS 7应用开发字幕文件",
+                "href": "https://github.com/jkyin/Subtitle",
                 "type": "github"
             }
         ]
@@ -1198,103 +1198,103 @@
         "heading": "Java",
         "childrens": [
             {
-                "href": "https://github.com/waylau/apache-shiro-1.2.x-reference",
                 "title": "Apache Shiro 用户指南",
+                "href": "https://github.com/waylau/apache-shiro-1.2.x-reference",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/Jersey-2.x-User-Guide",
                 "title": "Jersey 2.x 用户指南",
+                "href": "https://github.com/waylau/Jersey-2.x-User-Guide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/spring-framework-4-reference",
                 "title": "Spring Framework 4.x参考文档",
+                "href": "https://github.com/waylau/spring-framework-4-reference",
                 "type": "github"
             },
             {
-                "href": "https://github.com/qibaoguang/Spring-Boot-Reference-Guide",
                 "title": "Spring Boot参考指南",
+                "href": "https://github.com/qibaoguang/Spring-Boot-Reference-Guide",
                 "type": "github"
             },
             {
-                "href": "http://mybatis.org/mybatis-3/zh/index.html",
                 "title": "MyBatis中文文档",
+                "href": "http://mybatis.org/mybatis-3/zh/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/waylau/RestDemo",
                 "title": "用jersey构建REST服务",
+                "href": "https://github.com/waylau/RestDemo",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/activiti-5.x-user-guide",
                 "title": "Activiti 5.x 用户指南",
+                "href": "https://github.com/waylau/activiti-5.x-user-guide",
                 "type": "github"
             },
             {
-                "href": "http://www.hawstein.com/posts/google-java-style.html",
                 "title": "Google Java编程风格指南",
+                "href": "http://www.hawstein.com/posts/google-java-style.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/waylau/netty-4-user-guide",
                 "title": "Netty 4.x 用户指南",
+                "href": "https://github.com/waylau/netty-4-user-guide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/essential-netty-in-action",
                 "title": "Netty 实战(精髓)",
+                "href": "https://github.com/waylau/essential-netty-in-action",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/rest-in-action",
                 "title": "REST 实战",
+                "href": "https://github.com/waylau/rest-in-action",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/java-code-conventions",
                 "title": "Java 编码规范",
+                "href": "https://github.com/waylau/java-code-conventions",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/apache-mina-2.x-user-guide",
                 "title": "Apache MINA 2 用户指南",
+                "href": "https://github.com/waylau/apache-mina-2.x-user-guide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/h2-database-doc",
                 "title": "H2 Database 教程",
+                "href": "https://github.com/waylau/h2-database-doc",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/servlet-3.1-specification",
                 "title": "Java Servlet 3.1 规范",
+                "href": "https://github.com/waylau/servlet-3.1-specification",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/jsse-reference-guide",
                 "title": "JSSE 参考指南",
+                "href": "https://github.com/waylau/jsse-reference-guide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/biezhi/jb",
                 "title": "Java开源实现及最佳实践",
+                "href": "https://github.com/biezhi/jb",
                 "type": "github"
             },
             {
-                "href": "https://github.com/waylau/essential-java",
                 "title": "Java 编程要点",
+                "href": "https://github.com/waylau/essential-java",
                 "type": "github"
             },
             {
-                "href": "http://www.ituring.com.cn/minibook/69",
                 "title": "Think Java",
+                "href": "http://www.ituring.com.cn/minibook/69",
                 "type": "website"
             },
             {
-                "href": "https://github.com/wizardforcel/modern-java-zh",
                 "title": "Java 8 简明教程",
+                "href": "https://github.com/wizardforcel/modern-java-zh",
                 "type": "github"
             }
         ]
@@ -1303,83 +1303,83 @@
         "heading": "JavaScript",
         "childrens": [
             {
-                "href": "http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html",
                 "title": "Google JavaScript 代码风格指南",
+                "href": "http://bq69.com/blog/articles/script/868/google-javascript-style-guide.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md",
                 "title": "Google JSON 风格指南",
+                "href": "https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/adamlu/javascript-style-guide",
                 "title": "Airbnb JavaScript 规范",
+                "href": "https://github.com/adamlu/javascript-style-guide",
                 "type": "github"
             },
             {
-                "href": "https://github.com/justjavac/12-javascript-quirks",
                 "title": "javascript 的 12 个怪癖",
+                "href": "https://github.com/justjavac/12-javascript-quirks",
                 "type": "github"
             },
             {
-                "href": "http://bonsaiden.github.io/JavaScript-Garden/zh/",
                 "title": "JavaScript 秘密花园",
+                "href": "http://bonsaiden.github.io/JavaScript-Garden/zh/",
                 "type": "website"
             },
             {
-                "href": "http://icodeit.org/jsccp/",
                 "title": "JavaScript核心概念及实践",
+                "href": "http://icodeit.org/jsccp/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/jayli/javascript-patterns",
                 "title": "《JavaScript 模式》",
+                "href": "https://github.com/jayli/javascript-patterns",
                 "type": "github"
             },
             {
-                "href": "http://justjavac.com/named-function-expressions-demystified.html",
                 "title": "命名函数表达式探秘",
+                "href": "http://justjavac.com/named-function-expressions-demystified.html",
                 "type": "website"
             },
             {
-                "href": "http://www.oschina.net/translate/learning-javascript-design-patterns",
                 "title": "学用 JavaScript 设计模式",
+                "href": "http://www.oschina.net/translate/learning-javascript-design-patterns",
                 "type": "website"
             },
             {
-                "href": "http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html",
                 "title": "深入理解JavaScript系列",
+                "href": "http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html",
                 "type": "website"
             },
             {
-                "href": "http://yanhaijing.com/es5",
                 "title": "ECMAScript 5.1 中文版",
+                "href": "http://yanhaijing.com/es5",
                 "type": "website"
             },
             {
-                "href": "http://liubin.github.io/promises-book/",
                 "title": "JavaScript Promise迷你书",
+                "href": "http://liubin.github.io/promises-book/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/getify/You-Dont-Know-JS",
                 "title": "You-Dont-Know-JS",
+                "href": "https://github.com/getify/You-Dont-Know-JS",
                 "type": "github"
             },
             {
-                "href": "http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000",
                 "title": "JavaScript 教程",
+                "href": "http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000",
                 "type": "website"
             },
             {
-                "href": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
                 "title": "MDN JavaScript 中文文档",
+                "href": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
                 "type": "website"
             },
             {
-                "href": "http://www.ituring.com.cn/minibook/950",
                 "title": "Chrome扩展及应用开发",
+                "href": "http://www.ituring.com.cn/minibook/950",
                 "type": "website"
             }
         ]
@@ -1388,13 +1388,13 @@
         "heading": "LaTeX",
         "childrens": [
             {
-                "href": "http://liam0205.me/2014/09/08/latex-introduction/",
                 "title": "一份其实很短的 LaTeX 入门文档",
+                "href": "http://liam0205.me/2014/09/08/latex-introduction/",
                 "type": "website"
             },
             {
-                "href": "http://www.mohu.org/info/lshort-cn.pdf",
                 "title": "一份不太简短的 LATEX 2ε 介绍",
+                "href": "http://www.mohu.org/info/lshort-cn.pdf",
                 "type": "website"
             }
         ]
@@ -1403,23 +1403,23 @@
         "heading": "Lua",
         "childrens": [
             {
-                "href": "https://github.com/andycai/luaprimer",
                 "title": "Lua编程入门",
+                "href": "https://github.com/andycai/luaprimer",
                 "type": "github"
             },
             {
-                "href": "http://www.codingnow.com/2000/download/lua_manual.html",
                 "title": "Lua 5.1 参考手册 中文翻译",
+                "href": "http://www.codingnow.com/2000/download/lua_manual.html",
                 "type": "website"
             },
             {
-                "href": "http://cloudwu.github.io/lua53doc/",
                 "title": "Lua 5.3 参考手册 中文翻译",
+                "href": "http://cloudwu.github.io/lua53doc/",
                 "type": "website"
             },
             {
-                "href": "http://www.codingnow.com/temp/readinglua.pdf",
                 "title": "Lua源码欣赏",
+                "href": "http://www.codingnow.com/temp/readinglua.pdf",
                 "type": "website"
             }
         ]
@@ -1428,8 +1428,8 @@
         "heading": "OCaml",
         "childrens": [
             {
-                "href": "https://github.com/zforget/translation/tree/master/real_world_ocaml",
                 "title": "Real World OCaml",
+                "href": "https://github.com/zforget/translation/tree/master/real_world_ocaml",
                 "type": "github"
             }
         ]
@@ -1438,8 +1438,8 @@
         "heading": "Perl",
         "childrens": [
             {
-                "href": "https://github.com/horus/modern_perl_book",
                 "title": "Modern Perl 中文版",
+                "href": "https://github.com/horus/modern_perl_book",
                 "type": "github"
             }
         ]
@@ -1448,68 +1448,68 @@
         "heading": "PHP",
         "childrens": [
             {
-                "href": "http://php.net/manual/zh/",
                 "title": "PHP 官方手册",
+                "href": "http://php.net/manual/zh/",
                 "type": "website"
             },
             {
-                "href": "http://www.laruence.com/2010/06/21/1608.html",
                 "title": "PHP调试技术手册",
+                "href": "http://www.laruence.com/2010/06/21/1608.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/justjavac/PHP-Best-Practices-zh_CN",
                 "title": "PHP 最佳实践",
+                "href": "https://github.com/justjavac/PHP-Best-Practices-zh_CN",
                 "type": "github"
             },
             {
-                "href": "https://ryancao.gitbooks.io/php-developer-prepares/content/",
                 "title": "PHP 开发者实践",
+                "href": "https://ryancao.gitbooks.io/php-developer-prepares/content/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/reeze/tipi",
                 "title": "深入理解PHP内核",
+                "href": "https://github.com/reeze/tipi",
                 "type": "github"
             },
             {
-                "href": "http://www.walu.cc/phpbook/",
                 "title": "PHP扩展开发及内核应用",
+                "href": "http://www.walu.cc/phpbook/",
                 "type": "website"
             },
             {
-                "href": "http://laravel-china.org/docs/5.1",
                 "title": "Laravel5.1 中文文档",
+                "href": "http://laravel-china.org/docs/5.1",
                 "type": "website"
             },
             {
-                "href": "http://wiki.jikexueyuan.com/project/symfony-cookbook/",
                 "title": "Symfony2 Cookbook 中文版",
+                "href": "http://wiki.jikexueyuan.com/project/symfony-cookbook/",
                 "type": "website"
             },
             {
-                "href": "http://symfony-docs-chs.readthedocs.org/en/latest/",
                 "title": "Symfony2中文文档",
+                "href": "http://symfony-docs-chs.readthedocs.org/en/latest/",
                 "type": "website"
             },
             {
-                "href": "http://www.nowamagic.net/librarys/books/contents/php",
                 "title": "简单易懂的PHP魔法",
+                "href": "http://www.nowamagic.net/librarys/books/contents/php",
                 "type": "website"
             },
             {
-                "href": "https://github.com/LinkedDestiny/swoole-doc",
                 "title": "swoole文档及入门教程",
+                "href": "https://github.com/LinkedDestiny/swoole-doc",
                 "type": "github"
             },
             {
-                "href": "http://ww1.minimee.org/php/slim",
                 "title": "Slim 中文文档",
+                "href": "http://ww1.minimee.org/php/slim",
                 "type": "website"
             },
             {
-                "href": "https://phpunit.de/manual/current/zh_cn/installation.html",
                 "title": "PHPUnit 中文文档",
+                "href": "https://phpunit.de/manual/current/zh_cn/installation.html",
                 "type": "website"
             }
         ]
@@ -1518,8 +1518,8 @@
         "heading": "Prolog",
         "childrens": [
             {
-                "href": "http://fengdidi.github.io/blog/2011/11/15/qian-yan/",
                 "title": "笨办法学Prolog",
+                "href": "http://fengdidi.github.io/blog/2011/11/15/qian-yan/",
                 "type": "website"
             }
         ]
@@ -1528,233 +1528,233 @@
         "heading": "Python",
         "childrens": [
             {
-                "href": "http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000",
                 "title": "廖雪峰 Python 2.7 中文教程",
+                "href": "http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000",
                 "type": "website"
             },
             {
-                "href": "http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000",
                 "title": "廖雪峰 Python 3 中文教程",
+                "href": "http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000",
                 "type": "website"
             },
             {
-                "href": "http://www.kuqin.com/abyteofpython_cn/",
                 "title": "简明Python教程",
+                "href": "http://www.kuqin.com/abyteofpython_cn/",
                 "type": "website"
             },
             {
-                "href": "http://www.kancloud.cn/kancloud/python-basic",
                 "title": "零基础学 Python 第一版",
+                "href": "http://www.kancloud.cn/kancloud/python-basic",
                 "type": "website"
             },
             {
-                "href": "http://www.kancloud.cn/kancloud/starter-learning-python",
                 "title": "零基础学 Python 第二版",
+                "href": "http://www.kancloud.cn/kancloud/starter-learning-python",
                 "type": "website"
             },
             {
-                "href": "http://lovelypython.readthedocs.org/en/latest/",
                 "title": "可爱的 Python",
+                "href": "http://lovelypython.readthedocs.org/en/latest/",
                 "type": "website"
             },
             {
-                "href": "http://www.pythondoc.com/pythontutorial27/index.html",
                 "title": "Python 2.7 官方教程中文版",
+                "href": "http://www.pythondoc.com/pythontutorial27/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.pythondoc.com/pythontutorial3/index.html",
                 "title": "Python 3.3 官方教程中文版",
+                "href": "http://www.pythondoc.com/pythontutorial3/index.html",
                 "type": "website"
             },
             {
-                "href": "http://www.kancloud.cn/thinkphp/python-cookbook",
                 "title": "Python Cookbook 中文版",
+                "href": "http://www.kancloud.cn/thinkphp/python-cookbook",
                 "type": "website"
             },
             {
-                "href": "https://github.com/yidao620c/python3-cookbook",
                 "title": "Python3 Cookbook 中文版",
+                "href": "https://github.com/yidao620c/python3-cookbook",
                 "type": "github"
             },
             {
-                "href": "http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/",
                 "title": "深入 Python",
+                "href": "http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/",
                 "type": "website"
             },
             {
-                "href": "http://old.sebug.net/paper/books/dive-into-python3/",
                 "title": "深入 Python 3",
+                "href": "http://old.sebug.net/paper/books/dive-into-python3/",
                 "type": "website"
             },
             {
-                "href": "https://code.google.com/p/zhong-wiki/wiki/PEP8",
                 "title": "PEP8 Python代码风格规范",
+                "href": "https://code.google.com/p/zhong-wiki/wiki/PEP8",
                 "type": "website"
             },
             {
-                "href": "http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/",
                 "title": "Google Python 风格指南 中文版",
+                "href": "http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/",
                 "type": "website"
             },
             {
-                "href": "http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/",
                 "title": "Python入门教程",
+                "href": "http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/",
                 "type": "website"
             },
             {
-                "href": "http://old.sebug.net/paper/books/LearnPythonTheHardWay/",
                 "title": "笨办法学 Python",
+                "href": "http://old.sebug.net/paper/books/LearnPythonTheHardWay/",
                 "type": "website"
             },
             {
-                "href": "http://pan.baidu.com/s/1qW4pvnY",
                 "title": "Python自然语言处理中文版",
+                "href": "http://pan.baidu.com/s/1qW4pvnY",
                 "type": "website"
             },
             {
-                "href": "http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/",
                 "title": "Python 绘图库 matplotlib 官方指南中文翻译",
+                "href": "http://liam0205.me/2014/09/11/matplotlib-tutorial-zh-cn/",
                 "type": "website"
             },
             {
-                "href": "http://scrapy-chs.readthedocs.org/zh_CN/latest/",
                 "title": "Scrapy 0.25 文档",
+                "href": "http://scrapy-chs.readthedocs.org/zh_CN/latest/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/carfly/thinkpython-cn",
                 "title": "ThinkPython",
+                "href": "https://github.com/carfly/thinkpython-cn",
                 "type": "github"
             },
             {
-                "href": "https://github.com/bingjin/ThinkPython2-CN",
                 "title": "ThinkPython 2ed",
+                "href": "https://github.com/bingjin/ThinkPython2-CN",
                 "type": "github"
             },
             {
-                "href": "http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html",
                 "title": "Python快速教程",
+                "href": "http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html",
                 "type": "website"
             },
             {
-                "href": "http://wiki.ubuntu.org.cn/Python正则表达式操作指南",
                 "title": "Python 正则表达式操作指南",
+                "href": "http://wiki.ubuntu.org.cn/Python正则表达式操作指南",
                 "type": "website"
             },
             {
-                "href": "http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html",
                 "title": "python初级教程：入门详解",
+                "href": "http://www.crifan.com/files/doc/docbook/python_beginner_tutorial/release/html/python_beginner_tutorial.html",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/likebeta/twisted-intro-cn/details",
                 "title": "Twisted 与异步编程入门",
+                "href": "https://www.gitbook.com/book/likebeta/twisted-intro-cn/details",
                 "type": "website"
             },
             {
-                "href": "http://textgrocery.readthedocs.org/zh/latest/index.html",
                 "title": "TextGrocery 中文 API",
+                "href": "http://textgrocery.readthedocs.org/zh/latest/index.html",
                 "type": "website"
             },
             {
-                "href": "http://requests-docs-cn.readthedocs.org/zh_CN/latest/",
                 "title": "Requests: HTTP for Humans",
+                "href": "http://requests-docs-cn.readthedocs.org/zh_CN/latest/",
                 "type": "website"
             },
             {
-                "href": "http://pillow-cn.readthedocs.org/en/latest/#",
                 "title": "Pillow 中文文档",
+                "href": "http://pillow-cn.readthedocs.org/en/latest/#",
                 "type": "website"
             },
             {
-                "href": "http://pymotwcn.readthedocs.org/en/latest/index.html",
                 "title": "PyMOTW 中文版",
+                "href": "http://pymotwcn.readthedocs.org/en/latest/index.html",
                 "type": "website"
             },
             {
-                "href": "http://data.digitser.net/zh-CN/python_index.html",
                 "title": "Python 官方文档中文版",
+                "href": "http://data.digitser.net/zh-CN/python_index.html",
                 "type": "website"
             },
             {
-                "href": "http://beautifulsoup.readthedocs.org/zh_CN/latest/",
                 "title": "Beautiful Soup 4.2.0 中文文档",
+                "href": "http://beautifulsoup.readthedocs.org/zh_CN/latest/",
                 "type": "website"
             },
             {
-                "href": "http://old.sebug.net/paper/books/scipydoc",
                 "title": "用Python做科学计算",
+                "href": "http://old.sebug.net/paper/books/scipydoc",
                 "type": "website"
             },
             {
-                "href": "http://www.pythondoc.com/sphinx/index.html",
                 "title": "Sphinx 中文文档",
+                "href": "http://www.pythondoc.com/sphinx/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/cundi/Mastering.Python.Design.Patterns",
                 "title": "精通 Python 设计模式",
+                "href": "https://github.com/cundi/Mastering.Python.Design.Patterns",
                 "type": "github"
             },
             {
-                "href": "https://github.com/smartFlash/pySecurity",
                 "title": "python 安全编程教程",
+                "href": "https://github.com/smartFlash/pySecurity",
                 "type": "github"
             },
             {
-                "href": "https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details",
                 "title": "程序设计思想与方法",
+                "href": "https://www.gitbook.com/book/wizardforcel/sjtu-cs902-courseware/details",
                 "type": "website"
             },
             {
-                "href": "https://read.douban.com/ebook/16691849/",
                 "title": "知乎周刊·编程小白学Python",
+                "href": "https://read.douban.com/ebook/16691849/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/cloga/scipy-lecture-notes_cn",
                 "title": "Scipy 讲义",
+                "href": "https://github.com/cloga/scipy-lecture-notes_cn",
                 "type": "github"
             },
             {
-                "href": "http://www.kuqin.com/docs/pythonbasic.html",
                 "title": "Python 学习笔记 基础篇",
+                "href": "http://www.kuqin.com/docs/pythonbasic.html",
                 "type": "website"
             },
             {
-                "href": "http://www.kuqin.com/docs/pythonmodule.html",
                 "title": "Python 学习笔记 模块篇",
+                "href": "http://www.kuqin.com/docs/pythonmodule.html",
                 "type": "website"
             },
             {
-                "href": "http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf",
                 "title": "Python 标准库 中文版",
+                "href": "http://old.sebug.net/paper/books/python/%E3%80%8APython%E6%A0%87%E5%87%86%E5%BA%93%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/eastlakeside/interpy-zh/details",
                 "title": "Python进阶",
+                "href": "https://www.gitbook.com/book/eastlakeside/interpy-zh/details",
                 "type": "website"
             },
             {
-                "href": "https://wizardforcel.gitbooks.io/core-python-2e/content/",
                 "title": "Python 核心编程 第二版",
+                "href": "https://wizardforcel.gitbooks.io/core-python-2e/content/",
                 "type": "website"
             },
             {
-                "href": "http://pythonguidecn.readthedocs.io/zh/latest/",
                 "title": "Python最佳实践指南",
+                "href": "http://pythonguidecn.readthedocs.io/zh/latest/",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details",
                 "title": "Python 精要教程",
+                "href": "https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details",
                 "title": "Python 量化交易教程",
+                "href": "https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details",
                 "type": "website"
             }
         ]
@@ -1763,8 +1763,8 @@
         "heading": "R",
         "childrens": [
             {
-                "href": "https://github.com/yihui/r-ninja",
                 "title": "R语言忍者秘笈",
+                "href": "https://github.com/yihui/r-ninja",
                 "type": "github"
             }
         ]
@@ -1773,48 +1773,48 @@
         "heading": "Ruby",
         "childrens": [
             {
-                "href": "https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md",
                 "title": "Ruby 风格指南",
+                "href": "https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md",
                 "title": "Rails 风格指南",
+                "href": "https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md",
                 "type": "github"
             },
             {
-                "href": "https://ihower.tw/rails4/index.html",
                 "title": "Ruby on Rails 實戰聖經",
+                "href": "https://ihower.tw/rails4/index.html",
                 "type": "website"
             },
             {
-                "href": "http://rails-practice.com/content/index.html",
                 "title": "Rails 实践",
+                "href": "http://rails-practice.com/content/index.html",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details",
                 "title": "Rails 5 开发进阶(Beta)",
+                "href": "https://www.gitbook.com/book/kelby/rails-beginner-s-guide/details",
                 "type": "website"
             },
             {
-                "href": "https://www.gitbook.com/book/rocodev/rails-102/details",
                 "title": "Rails 102",
+                "href": "https://www.gitbook.com/book/rocodev/rails-102/details",
                 "type": "website"
             },
             {
-                "href": "https://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/",
                 "title": "编写Ruby的C拓展",
+                "href": "https://wusuopu.gitbooks.io/write-ruby-extension-with-c/content/",
                 "type": "website"
             },
             {
-                "href": "https://ruby-china.org/topics/22386",
                 "title": "Ruby 源码解读",
+                "href": "https://ruby-china.org/topics/22386",
                 "type": "website"
             },
             {
-                "href": "http://deathking.github.io/metaprogramming-in-ruby/",
                 "title": "Ruby中的元编程",
+                "href": "http://deathking.github.io/metaprogramming-in-ruby/",
                 "type": "website"
             }
         ]
@@ -1823,13 +1823,13 @@
         "heading": "Rust",
         "childrens": [
             {
-                "href": "https://www.gitbook.com/book/kaisery/rust-book-chinese/details",
                 "title": "rust book 中文翻译",
+                "href": "https://www.gitbook.com/book/kaisery/rust-book-chinese/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/rustcc/RustPrimer",
                 "title": "rust primer",
+                "href": "https://github.com/rustcc/RustPrimer",
                 "type": "github"
             }
         ]
@@ -1838,13 +1838,13 @@
         "heading": "Scala",
         "childrens": [
             {
-                "href": "http://twitter.github.io/scala_school/zh_cn/index.html",
                 "title": "Scala课堂",
+                "href": "http://twitter.github.io/scala_school/zh_cn/index.html",
                 "type": "website"
             },
             {
-                "href": "http://twitter.github.io/effectivescala/index-cn.html",
                 "title": "Effective Scala",
+                "href": "http://twitter.github.io/effectivescala/index-cn.html",
                 "type": "website"
             }
         ]
@@ -1853,28 +1853,28 @@
         "heading": "Shell",
         "childrens": [
             {
-                "href": "https://github.com/qinjx/30min_guides/blob/master/shell.md",
                 "title": "Shell脚本编程30分钟入门",
+                "href": "https://github.com/qinjx/30min_guides/blob/master/shell.md",
                 "type": "github"
             },
             {
-                "href": "http://blog.sae.sina.com.cn/archives/3606",
                 "title": "Bash脚本15分钟进阶教程",
+                "href": "http://blog.sae.sina.com.cn/archives/3606",
                 "type": "website"
             },
             {
-                "href": "https://github.com/me115/linuxtools_rst",
                 "title": "Linux工具快速教程",
+                "href": "https://github.com/me115/linuxtools_rst",
                 "type": "github"
             },
             {
-                "href": "https://github.com/wzb56/13_questions_of_shell",
                 "title": "shell十三问",
+                "href": "https://github.com/wzb56/13_questions_of_shell",
                 "type": "github"
             },
             {
-                "href": "https://www.gitbook.com/book/tinylab/shellbook/details",
                 "title": "Shell编程范例",
+                "href": "https://www.gitbook.com/book/tinylab/shellbook/details",
                 "type": "website"
             }
         ]
@@ -1883,13 +1883,13 @@
         "heading": "Swift",
         "childrens": [
             {
-                "href": "http://numbbbbb.github.io/the-swift-programming-language-in-chinese/",
                 "title": "The Swift Programming Language 中文版",
+                "href": "http://numbbbbb.github.io/the-swift-programming-language-in-chinese/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift",
                 "title": "Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译文件",
+                "href": "https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift",
                 "type": "github"
             }
         ]
@@ -1898,133 +1898,133 @@
         "heading": "读书笔记及其它",
         "childrens": [
             {
-                "href": "https://github.com/fool2fish/dragon-book-exercise-answers",
                 "title": "编译原理（紫龙书）中文第2版习题答案",
+                "href": "https://github.com/fool2fish/dragon-book-exercise-answers",
                 "type": "github"
             },
             {
-                "href": "http://www.hawstein.com/posts/make-thiner-programming-pearls.html",
                 "title": "把《编程珠玑》读薄",
+                "href": "http://www.hawstein.com/posts/make-thiner-programming-pearls.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/XiaolongJason/ReadingNote/blob/master/Effective%20C%2B%2B/Effective%20C%2B%2B.md",
                 "title": "Effective C++读书笔记",
+                "href": "https://github.com/XiaolongJason/ReadingNote/blob/master/Effective%20C%2B%2B/Effective%20C%2B%2B.md",
                 "type": "github"
             },
             {
-                "href": "https://github.com/qyuhen/book",
                 "title": "Golang 学习笔记、Python 学习笔记、C 学习笔记",
+                "href": "https://github.com/qyuhen/book",
                 "type": "github"
             },
             {
-                "href": "https://github.com/code4craft/jsoup-learning",
                 "title": "Jsoup 学习笔记",
+                "href": "https://github.com/code4craft/jsoup-learning",
                 "type": "github"
             },
             {
-                "href": "https://github.com/lzjun567/note",
                 "title": "学习笔记: Vim、Python、memcached",
+                "href": "https://github.com/lzjun567/note",
                 "type": "github"
             },
             {
-                "href": "http://www.ituring.com.cn/activity/details/2004",
                 "title": "图灵开放书翻译计划--C++、Python、Java等",
+                "href": "http://www.ituring.com.cn/activity/details/2004",
                 "type": "website"
             },
             {
-                "href": "http://g.yeeyan.org/books/2095",
                 "title": "蒂姆·奥莱利随笔",
+                "href": "http://g.yeeyan.org/books/2095",
                 "type": "website"
             },
             {
-                "href": "http://sicp.readthedocs.org/en/latest/",
                 "title": "SICP 解题集",
+                "href": "http://sicp.readthedocs.org/en/latest/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/hacke2/hacke2.github.io/issues/2",
                 "title": "精彩博客集合",
+                "href": "https://github.com/hacke2/hacke2.github.io/issues/2",
                 "type": "github"
             },
             {
-                "href": "https://github.com/sparanoid/chinese-copywriting-guidelines",
                 "title": "中文文案排版指北",
+                "href": "https://github.com/sparanoid/chinese-copywriting-guidelines",
                 "type": "github"
             },
             {
-                "href": "http://ganquan.info/standard-c/",
                 "title": "Standard C 语言标准函数库速查 (Cheat Sheet)",
+                "href": "http://ganquan.info/standard-c/",
                 "type": "website"
             },
             {
-                "href": "http://gh.amio.us/git-cheatsheet-chs/",
                 "title": "Git Cheatsheet Chs",
+                "href": "http://gh.amio.us/git-cheatsheet-chs/",
                 "type": "website"
             },
             {
-                "href": "http://www.chengweiyang.cn/gitbook/index.html",
                 "title": "GitBook简明教程",
+                "href": "http://www.chengweiyang.cn/gitbook/index.html",
                 "type": "website"
             },
             {
-                "href": "https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md",
                 "title": "JavaScript语言精粹",
+                "href": "https://github.com/qibaoguang/Study-Step-by-Step/blob/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/javascript_the_good_parts.md",
                 "type": "github"
             },
             {
-                "href": "http://producingoss.com/zh/",
                 "title": "制造开源软件",
+                "href": "http://producingoss.com/zh/",
                 "type": "website"
             },
             {
-                "href": "http://www.dianbo.org/9238/stone/tiwendezhihui.htm",
                 "title": "提问的智慧",
+                "href": "http://www.dianbo.org/9238/stone/tiwendezhihui.htm",
                 "type": "website"
             },
             {
-                "href": "https://github.com/LearnShare/Learning-Markdown",
                 "title": "Markdown 入门参考",
+                "href": "https://github.com/LearnShare/Learning-Markdown",
                 "type": "github"
             },
             {
-                "href": "https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc",
                 "title": "AsciiDoc简明指南",
+                "href": "https://github.com/stanzgy/wiki/blob/master/markup/asciidoc-guide.asciidoc",
                 "type": "github"
             },
             {
-                "href": "http://love-oriented.com/pack/",
                 "title": "背包问题九讲",
+                "href": "http://love-oriented.com/pack/",
                 "type": "website"
             },
             {
-                "href": "https://github.com/qiwsir/ITArticles",
                 "title": "老齐的技术资料",
+                "href": "https://github.com/qiwsir/ITArticles",
                 "type": "github"
             },
             {
-                "href": "https://github.com/JacksonTian/fks",
                 "title": "前端技能汇总",
+                "href": "https://github.com/JacksonTian/fks",
                 "type": "github"
             },
             {
-                "href": "https://github.com/zhuangbiaowei/learn-with-open-source",
                 "title": "借助开源项目，学习软件开发",
+                "href": "https://github.com/zhuangbiaowei/learn-with-open-source",
                 "type": "github"
             },
             {
-                "href": "https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese",
                 "title": "前端工作面试问题",
+                "href": "https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese",
                 "type": "github"
             },
             {
-                "href": "https://www.gitbook.com/book/yuanbin/algorithm/details",
                 "title": "leetcode/lintcode题解/算法学习笔记",
+                "href": "https://www.gitbook.com/book/yuanbin/algorithm/details",
                 "type": "website"
             },
             {
-                "href": "https://github.com/li-xinyang/FEND_Note",
                 "title": "前端开发笔记本",
+                "href": "https://github.com/li-xinyang/FEND_Note",
                 "type": "github"
             }
         ]
@@ -2033,8 +2033,8 @@
         "heading": "测试相关",
         "childrens": [
             {
-                "href": "http://appium.io/slate/cn/v1.2.0/",
                 "title": "移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN",
+                "href": "http://appium.io/slate/cn/v1.2.0/",
                 "type": "website"
             }
         ]

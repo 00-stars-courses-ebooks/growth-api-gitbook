@@ -18,24 +18,24 @@ function listToTable(list){
 
             if(/github\.com/.test(baseChildren.href)) {
                 results.push({
-                    href: href,
                     title: title,
+                    href: href,
                     type: 'github'
                 });
 
                 console.log(title + ' | ' +  href + ' | github ');
             } else if(/gitbook\.io/.test(baseChildren.href)) {
                 results.push({
-                    href: href,
                     title: title,
+                    href: href,
                     type: 'gitbook'
                 });
 
                 console.log(title + ' | ' +  href + ' | gitbook ');
             } else if(/^((http[s]?|ftp):\/)?\/?([^:\/\s]+)((\/\w+)*\/)([\w\-\.]+[^#?\s]+)(.*)?(#[\w\-]+)?$/.test(baseChildren.href)) {
                 results.push({
-                    href: href,
                     title: title,
+                    href: href,
                     type: 'website'
                 });
 
@@ -60,7 +60,7 @@ function getData(string) {
         }
         if(token.type === 'list') {
             console.log('\n' + heading + '\n---\n');
-            console.log('title | url | type' );
+            console.log('title | href | type' );
             console.log('------|-----|--------');
             var result = listToTable(token, heading);
             if(!_.isEmpty(result)){
