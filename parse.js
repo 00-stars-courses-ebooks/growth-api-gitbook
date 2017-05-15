@@ -4,7 +4,6 @@ var _ = require( 'lodash' )
 
 var raw = fs.readFileSync(__dirname + '/free-programming-books-zh_CN/README.md', 'utf8');
 // var raw = fs.readFileSync(__dirname + '/demo.md', 'utf8');
-var tokens = parser.parse(raw);
 
 var results = [];
 var resultsInString = "";
@@ -51,8 +50,12 @@ function listToTable(list){
     return results;
 }
 
-var result = _.map(_.filter(tokens.children, it => {
-    return it.type === 'list';
-}), listToTable);
+function getData(string) {
+    var tokens = parser.parse(string)
+    return _.map(_.filter(tokens.children, it => {
+        return it.type === 'list'
+    }), listToTable)
+}
 
-// console.log(result);
+var result = getData(raw);
+fs.writeFileSync('api.json', JSON.stringify(result, null, 4));
