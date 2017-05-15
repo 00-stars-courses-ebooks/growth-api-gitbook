@@ -66,7 +66,7 @@ function getData(string) {
             if(!_.isEmpty(result)){
                 results.push({
                     heading: heading,
-                    childrens: listToTable(token)
+                    childrens: result
                 });
             }
         }
