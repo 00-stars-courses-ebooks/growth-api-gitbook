@@ -1,20 +1,5 @@
 [
     {
-        "heading": "免费的编程中文书籍索引",
-        "childrens": [
-            {
-                "title": "stackoverflow",
-                "href": "http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read",
-                "type": "website"
-            },
-            {
-                "title": "github",
-                "href": "https://github.com/vhf/free-programming-books",
-                "type": "github"
-            }
-        ]
-    },
-    {
         "heading": "操作系统",
         "childrens": [
             {
